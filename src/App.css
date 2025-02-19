@@ -1,0 +1,64 @@
+*{font-family: "Quicksand", serif;}
+    
+:root{
+    --primario: rgb(7,6,6);
+    --secondario: rgb(129,129,129);
+    --accento: rgb(41, 204, 122);
+    --bianco: rgb(246, 246, 246);
+    --rosso: rgb(239, 68, 68);
+}
+
+.bg-primario{
+    background-color: var(--primario);
+}
+
+.bg-secondario{
+    background-color: var(--secondario);
+}
+
+.bg-accento{
+    background-color: var(--accento);
+}
+
+.bg-bianco{
+    background-color: var(--bianco);
+}
+
+.bg-rosso{
+    background-color: var(--rosso);
+}
+
+.text-primario{
+    color: var(--primario);
+}
+
+.text-secondario{
+    color: var(--secondario);
+}
+
+.text-accento{
+    color: var(--accento);
+}
+
+.text-bianco{
+    color: var(--bianco);
+}
+
+.text-rosso{
+    color: var(--rosso);
+}
+
+.border-primario{
+    border: solid 2px var(--primario);
+}
+
+.border-secondario{
+    border: solid 2px var(--secondario);
+}
+.border-accento{
+    border: solid 2px var(--accento);
+}
+
+.border-bianco{
+    border: solid 2px var(--bianco);
+}
